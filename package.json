@@ -1,0 +1,24 @@
+{
+  "name": "node-netsuite",
+  "version": "1.0.0",
+  "description": "NetSuite REST and SuiteQL helper",
+  "main": "netsuite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wb6/node-netsuite.git"
+  },
+  "keywords": [
+    "NetSuite",
+    "REST-API",
+    "SuiteQL"
+  ],
+  "author": "",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/wb6/node-netsuite/issues"
+  },
+  "homepage": "https://github.com/wb6/node-netsuite#readme"
+}
